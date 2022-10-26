@@ -1,3 +1,2 @@
 # TitanicSurvivalPrediction
-Detailed EDA of the Titanic passenger log and machine learning predictions of survival.
-![Alt text]("C:\Users\timho\OneDrive\Desktop\ML\400px-Titanic_Starboard_View_1912.gif" "Titanic")
+![400px-Titanic_Starboard_View_1912](https://user-images.githubusercontent.com/45957263/198117741-f0042e7f-6d13-473b-a2e8-e39498e61e2a.gif)

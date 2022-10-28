@@ -3,6 +3,6 @@
 
 #### Exploratory Data Analysis and Predicitive Modelling using Logistic Regression of passengers of the Titanic.
 
-###### Use of Pandas, Numpy, and Seaborn for data manipulation and visualization
+###### [Use of Pandas, Numpy, and Seaborn for data manipulation and visualization](https://github.com/Thop2/TitanicSurvivalPrediction/blob/main/TitanicEDA.ipynb)
 
-###### Use of sk_learn for logistic regression to predict survivors of the Titanic. Model scored using accuracy of predictions in the test data set.
+###### [Use of sk_learn for logistic regression to predict survivors of the Titanic. Model scored using accuracy of predictions in the test data set]

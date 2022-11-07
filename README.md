@@ -5,4 +5,4 @@
 
 ###### [Use of Pandas, Numpy, and Seaborn for data manipulation and visualization](https://github.com/Thop2/TitanicSurvivalPrediction/blob/main/TitanicEDA.ipynb)
 
-###### [Use of popular ML models to predict survivors of the Titanic. Models scored using accuracy of predictions in the training data set](https://github.com/Thop2/TitanicSurvivalPrediction/blob/main/TitanicLogReg.ipynb)
+###### [Use of popular ML models to predict survivors of the Titanic. Models scored using accuracy of predictions in the training data set](https://github.com/Thop2/TitanicSurvivalPrediction/blob/main/TitanicMLModels.ipynb)
